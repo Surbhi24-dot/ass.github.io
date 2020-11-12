@@ -1,0 +1,61 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Nov 2020 20:56:57 at https://exponentwptheme.com/finance/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://exponentwptheme.com/finance/ -O1 "C:\Users\user\Desktop\exponentwptheme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:57:01	Warning: 	Moved Permanently for https://exponentwptheme.com/robots.txt
+20:57:01	Warning: 	File has moved from https://exponentwptheme.com/robots.txt to https://exponentwptheme.com/robots.txt/
+20:59:07	Error: 	"Bad Request" (400) at link https://exponentwptheme.com/finance/wp-admin/admin-ajax.php (from https://exponentwptheme.com/finance/)
+20:59:07	Error: 	"Not Found" (404) at link https://qu3r1v212d48cje431eqa61a-wpengine.netdna-ssl.com/wp-content/plugins/be-grid/img/plus_icon.png (from https://qu3r1v212d48cje431eqa61a-wpengine.netdna-ssl.com/wp-content/plugins/be-grid/css/be-grid.min.css?ver=1.2.4)
+20:59:08	Warning: 	File not parsed, looks like binary: https://exponentwptheme.com/finance/wp-content/plugins/revslider/public/assets/css/openhand.cur
+20:59:08	Warning: 	File not parsed, looks like binary: https://exponentwptheme.com/finance/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+20:59:09	Warning: 	Moved Permanently for https://qu3r1v212d48cje431eqa61a-wpengine.netdna-ssl.com/robots.txt
+20:59:09	Warning: 	File has moved from https://qu3r1v212d48cje431eqa61a-wpengine.netdna-ssl.com/robots.txt to http://exponentwptheme.com/robots.txt/
+20:59:09	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4
+20:59:09	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4 to https://exponentwptheme.com/finance/home/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=145
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=145 to https://exponentwptheme.com/finance/about-2/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4616
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4616 to https://exponentwptheme.com/finance/services/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4652
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4652 to https://exponentwptheme.com/finance/portfolio/consulting/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4647
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4647 to https://exponentwptheme.com/finance/portfolio/stock-markets/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4648
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4648 to https://exponentwptheme.com/finance/portfolio/mutual-funds/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4651
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4651 to https://exponentwptheme.com/finance/portfolio/insurance/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4650
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4650 to https://exponentwptheme.com/finance/portfolio/business-loans/
+20:59:10	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4649
+20:59:10	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4649 to https://exponentwptheme.com/finance/portfolio/money-markets/
+21:00:14	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4587
+21:00:14	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4587 to https://exponentwptheme.com/finance/contact/
+21:00:14	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4369
+21:00:14	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4369 to https://exponentwptheme.com/finance/by-2030-every-person-in-the-planet-will-have-a-smartphone/
+21:00:19	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4368
+21:00:19	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4368 to https://exponentwptheme.com/finance/places-you-need-to-visit-before-you-get-married/
+21:00:23	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4367
+21:00:23	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4367 to https://exponentwptheme.com/finance/why-you-to-hire-a-lawyer-to-prepare-your-privacy-policy/
+21:00:28	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4366
+21:00:28	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4366 to https://exponentwptheme.com/finance/a-fully-visual-way-to-build-websites-using-wordpress/
+21:00:31	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4365
+21:00:31	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4365 to https://exponentwptheme.com/finance/words-of-wisdom-from-a-successful-blogger-and-mom-of-three/
+21:00:34	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4364
+21:00:34	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4364 to https://exponentwptheme.com/finance/10-things-that-every-startup-needs-to-do-to-succeed/
+21:00:36	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4363
+21:00:36	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4363 to https://exponentwptheme.com/finance/how-robots-are-helping-farmers-in-improving-produce-quality/
+21:00:39	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4362
+21:00:39	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4362 to https://exponentwptheme.com/finance/the-apps-you-need-to-install-to-improve-your-productivity/
+21:00:42	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4361
+21:00:42	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4361 to https://exponentwptheme.com/finance/will-vr-revolutionize-the-way-kids-learn-at-school/
+21:00:44	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4360
+21:00:44	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4360 to https://exponentwptheme.com/finance/create-websites-that-load-at-blazing-fast-speeds-using-exponent/
+21:00:47	Warning: 	Moved Permanently for https://exponentwptheme.com/finance/?p=4359
+21:00:47	Warning: 	File has moved from https://exponentwptheme.com/finance/?p=4359 to https://exponentwptheme.com/finance/artificial-intelligence-will-be-the-next-big-thing-in-technology/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 53 seconds : 305 links scanned, 280 files written (22741266 bytes overall) [12547365 bytes received at 53851 bytes/sec], 12776885 bytes transferred using HTTP compression in 191 files, ratio 17%, 16.6 requests per connection
+(2 errors, 48 warnings, 0 messages)
